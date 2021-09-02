@@ -1,7 +1,11 @@
 //mod conditions;
+//mod functions;
+//mod pointers;
+
+mod structs;
 
 mod loops;
 
 fn main() {
-    loops::run();
+    structs::run();
 }
