@@ -1,1 +1,1 @@
-/home/chaitanya/Documents/Rust/twoSum/target/debug/twoSum: /home/chaitanya/Documents/Rust/twoSum/src/main.rs
+C:\Users\Owner\OneDrive\Documents\Rust\twoSum\target\debug\twoSum.exe: C:\Users\Owner\OneDrive\Documents\Rust\twoSum\src\main.rs
